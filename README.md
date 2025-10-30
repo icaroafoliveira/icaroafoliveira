@@ -14,18 +14,20 @@ My research focuses on developing imaging techniques and computational tools to 
 
 ### 🧩 Skills & Profiles
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=x3R9lXoAAAAJ&hl=en&oi=ao)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7102-5569)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=x3R9lXoAAAAJ&hl=en&oi=ao)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7102-5569)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Icaro-Oliveira?ev=hdr_xprf)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
 ### 🧪 Selected Projects
 - [MacroQA](https://github.com/icaroafoliveira/Macros_MRI_QA_phantom_ACR) - An ImageJ Macro for ACR MRI Quality Assurance
 - [7T ASL scripts](https://github.com/icaroafoliveira/ASL_7T_pTx_scripts) - Collection of Julia scripts for Arterial Spin Labeling processing
-- 
+
 
 ---
 
@@ -39,4 +41,3 @@ My research focuses on developing imaging techniques and computational tools to 
 ---
 
 ⭐ **Feel free to explore my repositories or connect for collaboration opportunities!**
-
